@@ -1,0 +1,4 @@
+/home/ali/Desktop/Ex_Files_Learning_C_Sharp/Exercise Files/01_09/obj/Debug/netcoreapp2.2/ForLoop.csprojAssemblyReference.cache
+/home/ali/Desktop/Ex_Files_Learning_C_Sharp/Exercise Files/01_09/obj/Debug/netcoreapp2.2/ForLoop.csproj.CoreCompileInputs.cache
+/home/ali/Desktop/Ex_Files_Learning_C_Sharp/Exercise Files/01_09/obj/Debug/netcoreapp2.2/ForLoop.AssemblyInfoInputs.cache
+/home/ali/Desktop/Ex_Files_Learning_C_Sharp/Exercise Files/01_09/obj/Debug/netcoreapp2.2/ForLoop.AssemblyInfo.cs
