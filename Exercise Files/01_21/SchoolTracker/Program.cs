@@ -6,25 +6,62 @@ namespace SchoolTracker
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("How many students in your class?");
-            var studentCount = int.Parse(Console.ReadLine());
+            var students = new list<Student>();
+            var adding = true;
 
-            var studentNames = new string[studentCount];
-            var studentGrades = new int[studentCount];
-
-            for (int i = 0; i < studentCount; i++)
+            while (adding)
             {
+                var newStudent = new Student();
+
                 Console.Write("Student Name: ");
-                studentNames[i] = Console.ReadLine();
+                newStudent.Name = Console.ReadLine();
 
                 Console.Write("Student Grade: ");
-                studentGrades[i] = int.Parse(Console.ReadLine());
+                newStudent.Grade = int.Parse(Console.ReadLine());
+
+                Console.Write("Student Birthday: ");
+                newStudent.Birthday = Console.ReadLine();
+
+                Console.Write("Student Address: ");
+                newStudent.Address = Console.ReadLine();
+
+                Console.Write("Student Phone: ");
+                newStudent.Phone =  int.Parse(Console.ReadLine());
+
+                students.Add(newStudent);
+
+                Console.WriteLine("Add another? y/n")
+                if(Console.ReadLine != "y")
+                    adding = false;
             }
 
-            for (int i = 0; i < studentCount; i++)
+           
+
+            foreach (var student in students)
             {
-                Console.WriteLine("Name: {0}, Grade: {1}", studentNames[i], studentGrades[i]);
+                Console.WriteLine("Name: {0}, Grade: {1}, Birthday{2}, Address{3}", student.Name, student.Grade, student.Birthday, student.Address);
             }
+        }
+    }
+
+    class Student
+    {
+        public string Name;
+        public int Grade;
+        public string Birthday;
+        public string Address;
+        private int phone;
+
+        // Properties for object
+
+        private int Phone
+        {
+            set {phone = value; }
+        }
+
+        public void SetPhone(int number)
+        {
+            phone = number;
         }
     }
 }
