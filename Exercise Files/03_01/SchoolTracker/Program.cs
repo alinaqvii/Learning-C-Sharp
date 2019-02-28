@@ -13,11 +13,19 @@ namespace SchoolTracker
 
             while (adding)
             {
-                var newStudent = new Student();
+
+                try
+                {
+                    var newStudent = new Student();
 
                 newStudent.Name = Util.Console.Ask("Student Name: ");
                 
-                newStudent.Grade = int.Parse(Util.Console.Ask("Student Grade: "));
+                int.Parse(Util.Console.Ask("Student Grade: "));
+
+                // if(!result)
+                // {
+                //     Console.WriteLine("You write the wrong datatype, Try Again!");
+                // }
 
                 newStudent.Birthday = Util.Console.Ask("Student Birthday: ");
 
@@ -33,6 +41,15 @@ namespace SchoolTracker
 
                 if (Console.ReadLine() != "y")
                     adding = false;
+                }
+                catch (System.Exception)
+                {
+                    
+                    Console.WriteLine("You write the wrong datatype, Try Again!");
+                }
+
+
+                
             }
 
             foreach (var student in students)
