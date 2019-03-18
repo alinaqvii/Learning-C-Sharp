@@ -9,3 +9,14 @@
 /home/ali/Desktop/C#/String/obj/Debug/netcoreapp2.2/String.AssemblyInfo.cs
 /home/ali/Desktop/C#/String/obj/Debug/netcoreapp2.2/String.dll
 /home/ali/Desktop/C#/String/obj/Debug/netcoreapp2.2/String.pdb
+/home/ali/Desktop/Ex_Files_Learning_C_Sharp/Exercise Files/C#/String/bin/Debug/netcoreapp2.2/String.deps.json
+/home/ali/Desktop/Ex_Files_Learning_C_Sharp/Exercise Files/C#/String/bin/Debug/netcoreapp2.2/String.runtimeconfig.json
+/home/ali/Desktop/Ex_Files_Learning_C_Sharp/Exercise Files/C#/String/bin/Debug/netcoreapp2.2/String.runtimeconfig.dev.json
+/home/ali/Desktop/Ex_Files_Learning_C_Sharp/Exercise Files/C#/String/bin/Debug/netcoreapp2.2/String.dll
+/home/ali/Desktop/Ex_Files_Learning_C_Sharp/Exercise Files/C#/String/bin/Debug/netcoreapp2.2/String.pdb
+/home/ali/Desktop/Ex_Files_Learning_C_Sharp/Exercise Files/C#/String/obj/Debug/netcoreapp2.2/String.csprojAssemblyReference.cache
+/home/ali/Desktop/Ex_Files_Learning_C_Sharp/Exercise Files/C#/String/obj/Debug/netcoreapp2.2/String.csproj.CoreCompileInputs.cache
+/home/ali/Desktop/Ex_Files_Learning_C_Sharp/Exercise Files/C#/String/obj/Debug/netcoreapp2.2/String.AssemblyInfoInputs.cache
+/home/ali/Desktop/Ex_Files_Learning_C_Sharp/Exercise Files/C#/String/obj/Debug/netcoreapp2.2/String.AssemblyInfo.cs
+/home/ali/Desktop/Ex_Files_Learning_C_Sharp/Exercise Files/C#/String/obj/Debug/netcoreapp2.2/String.dll
+/home/ali/Desktop/Ex_Files_Learning_C_Sharp/Exercise Files/C#/String/obj/Debug/netcoreapp2.2/String.pdb

@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/ali/Desktop/Ex_Files_Learning_C_Sharp/Exercise Files/C#/String/String.csproj",
-      "projectName": "String",
-      "projectPath": "/home/ali/Desktop/Ex_Files_Learning_C_Sharp/Exercise Files/C#/String/String.csproj",
+      "projectUniqueName": "/home/ali/Desktop/Ex_Files_Learning_C_Sharp/Exercise Files/C#/String/String Builder/String Builder.csproj",
+      "projectName": "String Builder",
+      "projectPath": "/home/ali/Desktop/Ex_Files_Learning_C_Sharp/Exercise Files/C#/String/String Builder/String Builder.csproj",
       "packagesPath": "/home/ali/.nuget/packages/",
-      "outputPath": "/home/ali/Desktop/Ex_Files_Learning_C_Sharp/Exercise Files/C#/String/obj/",
+      "outputPath": "/home/ali/Desktop/Ex_Files_Learning_C_Sharp/Exercise Files/C#/String/String Builder/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"
