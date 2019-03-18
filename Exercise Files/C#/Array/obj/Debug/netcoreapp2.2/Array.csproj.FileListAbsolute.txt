@@ -1,0 +1,11 @@
+/home/ali/Desktop/C#/Array/obj/Debug/netcoreapp2.2/Array.csprojAssemblyReference.cache
+/home/ali/Desktop/C#/Array/obj/Debug/netcoreapp2.2/Array.csproj.CoreCompileInputs.cache
+/home/ali/Desktop/C#/Array/obj/Debug/netcoreapp2.2/Array.AssemblyInfoInputs.cache
+/home/ali/Desktop/C#/Array/obj/Debug/netcoreapp2.2/Array.AssemblyInfo.cs
+/home/ali/Desktop/C#/Array/bin/Debug/netcoreapp2.2/Array.deps.json
+/home/ali/Desktop/C#/Array/bin/Debug/netcoreapp2.2/Array.runtimeconfig.json
+/home/ali/Desktop/C#/Array/bin/Debug/netcoreapp2.2/Array.runtimeconfig.dev.json
+/home/ali/Desktop/C#/Array/bin/Debug/netcoreapp2.2/Array.dll
+/home/ali/Desktop/C#/Array/bin/Debug/netcoreapp2.2/Array.pdb
+/home/ali/Desktop/C#/Array/obj/Debug/netcoreapp2.2/Array.dll
+/home/ali/Desktop/C#/Array/obj/Debug/netcoreapp2.2/Array.pdb

@@ -1,0 +1,11 @@
+/home/ali/Desktop/C#/LISTS/bin/Debug/netcoreapp2.2/LISTS.deps.json
+/home/ali/Desktop/C#/LISTS/bin/Debug/netcoreapp2.2/LISTS.runtimeconfig.json
+/home/ali/Desktop/C#/LISTS/bin/Debug/netcoreapp2.2/LISTS.runtimeconfig.dev.json
+/home/ali/Desktop/C#/LISTS/bin/Debug/netcoreapp2.2/LISTS.dll
+/home/ali/Desktop/C#/LISTS/bin/Debug/netcoreapp2.2/LISTS.pdb
+/home/ali/Desktop/C#/LISTS/obj/Debug/netcoreapp2.2/LISTS.csprojAssemblyReference.cache
+/home/ali/Desktop/C#/LISTS/obj/Debug/netcoreapp2.2/LISTS.csproj.CoreCompileInputs.cache
+/home/ali/Desktop/C#/LISTS/obj/Debug/netcoreapp2.2/LISTS.AssemblyInfoInputs.cache
+/home/ali/Desktop/C#/LISTS/obj/Debug/netcoreapp2.2/LISTS.AssemblyInfo.cs
+/home/ali/Desktop/C#/LISTS/obj/Debug/netcoreapp2.2/LISTS.dll
+/home/ali/Desktop/C#/LISTS/obj/Debug/netcoreapp2.2/LISTS.pdb

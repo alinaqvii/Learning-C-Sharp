@@ -1,0 +1,11 @@
+/home/ali/Desktop/C#/dataAndTime/bin/Debug/netcoreapp2.2/dataAndTime.deps.json
+/home/ali/Desktop/C#/dataAndTime/bin/Debug/netcoreapp2.2/dataAndTime.runtimeconfig.json
+/home/ali/Desktop/C#/dataAndTime/bin/Debug/netcoreapp2.2/dataAndTime.runtimeconfig.dev.json
+/home/ali/Desktop/C#/dataAndTime/bin/Debug/netcoreapp2.2/dataAndTime.dll
+/home/ali/Desktop/C#/dataAndTime/bin/Debug/netcoreapp2.2/dataAndTime.pdb
+/home/ali/Desktop/C#/dataAndTime/obj/Debug/netcoreapp2.2/dataAndTime.csprojAssemblyReference.cache
+/home/ali/Desktop/C#/dataAndTime/obj/Debug/netcoreapp2.2/dataAndTime.csproj.CoreCompileInputs.cache
+/home/ali/Desktop/C#/dataAndTime/obj/Debug/netcoreapp2.2/dataAndTime.AssemblyInfoInputs.cache
+/home/ali/Desktop/C#/dataAndTime/obj/Debug/netcoreapp2.2/dataAndTime.AssemblyInfo.cs
+/home/ali/Desktop/C#/dataAndTime/obj/Debug/netcoreapp2.2/dataAndTime.dll
+/home/ali/Desktop/C#/dataAndTime/obj/Debug/netcoreapp2.2/dataAndTime.pdb

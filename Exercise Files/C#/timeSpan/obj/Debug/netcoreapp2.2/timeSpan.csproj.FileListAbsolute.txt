@@ -1,0 +1,11 @@
+/home/ali/Desktop/C#/timeSpan/bin/Debug/netcoreapp2.2/timeSpan.deps.json
+/home/ali/Desktop/C#/timeSpan/bin/Debug/netcoreapp2.2/timeSpan.runtimeconfig.json
+/home/ali/Desktop/C#/timeSpan/bin/Debug/netcoreapp2.2/timeSpan.runtimeconfig.dev.json
+/home/ali/Desktop/C#/timeSpan/bin/Debug/netcoreapp2.2/timeSpan.dll
+/home/ali/Desktop/C#/timeSpan/bin/Debug/netcoreapp2.2/timeSpan.pdb
+/home/ali/Desktop/C#/timeSpan/obj/Debug/netcoreapp2.2/timeSpan.csprojAssemblyReference.cache
+/home/ali/Desktop/C#/timeSpan/obj/Debug/netcoreapp2.2/timeSpan.csproj.CoreCompileInputs.cache
+/home/ali/Desktop/C#/timeSpan/obj/Debug/netcoreapp2.2/timeSpan.AssemblyInfoInputs.cache
+/home/ali/Desktop/C#/timeSpan/obj/Debug/netcoreapp2.2/timeSpan.AssemblyInfo.cs
+/home/ali/Desktop/C#/timeSpan/obj/Debug/netcoreapp2.2/timeSpan.dll
+/home/ali/Desktop/C#/timeSpan/obj/Debug/netcoreapp2.2/timeSpan.pdb
