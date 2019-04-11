@@ -1,0 +1,11 @@
+/home/ali/Desktop/Ex_Files_Learning_C_Sharp/Exercise Files/Student/bin/Debug/netcoreapp2.2/Student.deps.json
+/home/ali/Desktop/Ex_Files_Learning_C_Sharp/Exercise Files/Student/bin/Debug/netcoreapp2.2/Student.runtimeconfig.json
+/home/ali/Desktop/Ex_Files_Learning_C_Sharp/Exercise Files/Student/bin/Debug/netcoreapp2.2/Student.runtimeconfig.dev.json
+/home/ali/Desktop/Ex_Files_Learning_C_Sharp/Exercise Files/Student/bin/Debug/netcoreapp2.2/Student.dll
+/home/ali/Desktop/Ex_Files_Learning_C_Sharp/Exercise Files/Student/bin/Debug/netcoreapp2.2/Student.pdb
+/home/ali/Desktop/Ex_Files_Learning_C_Sharp/Exercise Files/Student/obj/Debug/netcoreapp2.2/Student.csprojAssemblyReference.cache
+/home/ali/Desktop/Ex_Files_Learning_C_Sharp/Exercise Files/Student/obj/Debug/netcoreapp2.2/Student.csproj.CoreCompileInputs.cache
+/home/ali/Desktop/Ex_Files_Learning_C_Sharp/Exercise Files/Student/obj/Debug/netcoreapp2.2/Student.AssemblyInfoInputs.cache
+/home/ali/Desktop/Ex_Files_Learning_C_Sharp/Exercise Files/Student/obj/Debug/netcoreapp2.2/Student.AssemblyInfo.cs
+/home/ali/Desktop/Ex_Files_Learning_C_Sharp/Exercise Files/Student/obj/Debug/netcoreapp2.2/Student.dll
+/home/ali/Desktop/Ex_Files_Learning_C_Sharp/Exercise Files/Student/obj/Debug/netcoreapp2.2/Student.pdb
